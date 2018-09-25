@@ -1,0 +1,24 @@
+[class^="el-icon-xyr"], [class*="el-icon-xyr"]
+{
+  font-family:"iconfont" !important;
+  font-size:1.1rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.el-icon-xyr-yonghuming,.el-icon-xyr-mima,.el-icon-xyr-email{
+	color:green;
+}
+.el-icon-xyr-morentouxiang{
+	color:#fff;
+	font-size:2.5rem;
+}
+.el-icon-xyr-biyan,.el-icon-xyr-in_zhengyan{
+	color:#888;
+}
+.el-icon-xyr-et-more{
+	color:#fff;
+}
+.el-icon-xyr-close{
+	color:#fff;
+}
